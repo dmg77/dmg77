@@ -17,8 +17,3 @@ Here are some ideas to get you started:
 - I am currently studying CECS at CSULB and hopefuly will be graduating in Spring 2023.
 - Very interested in learning Processor design and how they work.
 - Love to play video games 🎮 and watch anime on my free time.
-
-* ~~Open a pull request and let your teacher know that you’ve finished this course.~~  
-* ***I have read through this course and believe I have completed it.***
-* ~~Create a new markdown file in this repository. Let them know what you learned and what you are still confused about! Experiment with different styles!~~ 
-* ***Created a test markdown file***
