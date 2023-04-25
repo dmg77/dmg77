@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 - I am currently studying CECS at CSULB and hopefuly will be graduating in Spring 2023.
 - Very interested in learning Processor design and how they work.
-- Love to play video games 🎮 and watch anime on my free time.
+- Love to play video games 🎮 and watch studying AI on my free time
